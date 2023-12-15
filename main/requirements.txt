@@ -1,0 +1,5 @@
+requests==2.26.0
+python==3.9.7
+smtplib==3.34
+email==3.4.23
+
